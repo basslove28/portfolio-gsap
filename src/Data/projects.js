@@ -4,14 +4,14 @@ export const projects = [
     id: 1,
     title: "3D Planet App",
     description: "Displays planets and their info with stunning visuals.",
-    image: "https://via.placeholder.com/300x200",
+    image: "/src/assets/3d planet app screenshot.png",
     link: "#",
   },
   {
     id: 2,
     title: "Colorix",
     description: "Mix colors and display hex values with live previews.",
-    image: "https://via.placeholder.com/300x200",
+    image: "/src/assets/colorix screenshot.png",
     link: "https://github.com/basslove28/Colorix",
   },
   {
