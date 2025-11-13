@@ -18,7 +18,7 @@ export const projects = [
     id: 3,
     title: "Superpoll",
     description: "A polling application for creating and managing polls",
-    image: "https://via.placeholder.com/300x200",
+    image: "/src/assets/Screenshot 2025-11-13 at 4.18.18 PM.png",
     link: "https://github.com/basslove28/superpoll_v1",
   },
 ];
